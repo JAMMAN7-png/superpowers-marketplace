@@ -7,7 +7,7 @@ Curated Claude Code plugins for skills, workflows, and productivity tools.
 Add this marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add obra/superpowers-marketplace
+/plugin marketplace add JAMMAN7-png/superpowers-marketplace
 ```
 
 ## Available Plugins
@@ -29,7 +29,7 @@ Add this marketplace to Claude Code:
 - Skills-search tool for discovery
 - SessionStart context injection
 
-**Repository:** https://github.com/obra/superpowers
+**Repository:** https://github.com/JAMMAN7-png/superpowers
 
 ---
 
@@ -86,8 +86,8 @@ superpowers-marketplace/
 
 ## Support
 
-- **Issues**: https://github.com/obra/superpowers-marketplace/issues
-- **Core Plugin**: https://github.com/obra/superpowers
+- **Issues**: https://github.com/JAMMAN7-png/superpowers-marketplace/issues
+- **Core Plugin**: https://github.com/JAMMAN7-png/superpowers
 
 ## License
 
